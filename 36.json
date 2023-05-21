@@ -1,158 +1,60 @@
 {
-    "Ads": [
-      {
-        "select_main_ads": "FACEBOOK",
-        "select_backup_ads":"APPLOVIN-D",
-        "main_ads_banner": "",
-        "main_ads_intertitial":"",
-        "main_ads_natives":"",
-        "backup_ads_natives":"",
-        "backup_ads_banner":"0b8b1e3fcfb671d8",
-        "backup_ads_intertitial":"80152ad6fd5bbfdf",
-        "open_ads_admob":"",
-        "open_ads_alien":"",
-        "switch_open_ads":"1",
-        "switch_banner_natives_ads":"2",
-        "interval_intertitial": 2,
-        "initialize_sdk":"",
-        "initialize_sdk_backup_ads":"",
-        "high_paying_keyword_1": "Bank",
-        "high_paying_keyword_2": "Hosting",
-        "high_paying_keyword_3": "Investasi",
-        "high_paying_keyword_4": "Crypto",
-        "high_paying_keyword_5": "Pinjaman",
-        "status_app": "0",
-        "link_redirect": ""
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"0b8b1e3fcfb671d8",
+      "backup_ads_intertitial":"80152ad6fd5bbfdf",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
    "More": [
     {
       "id": 1,
-      "title": "Testku",
-      "image": "https://fyh6jk7zypag.cdn.shift8web.com/wp-content/uploads/2022/07/Syarat-Pinjaman-Online.jpg",
-      "link": "https://play.google.com/store/apps/details?id=com.akuganteng"
-    } 
+      "title": "Tutorial",
+      "image": "https://i.ytimg.com/vi/8oHca6e_c7I/maxresdefault.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com"
+    }
   ],
   "Categories": [
     {
       "id": 1,
-      "name_category": "Tut097870orial",
-      "image": "https://fyh6jk7zypag.cdn.shift8web.com/wp-content/uploads/2022/07/Syarat-Pinjaman-Online.jpg"
-    } 
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image1.png"
+    }
   ],
   "Data": [
-      {
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Apa yang Harus Anda Ketahui Sebelum Mengajukan",
-        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/02/13/1107725129.jpeg",
-        "description": "Pinjol Aman Mudah Cair",
-        "link": "https://raw.githack.com/starproltd/isinya/main/1.html"
-      }, {
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Proses dari Pengajuan hingga Pencairan Dana",
-        "image": "https://i.ytimg.com/vi/07p_CTBHMbU/maxresdefault.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/2.html"
-      },  {
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Bagaimana Pinjaman Online Bekerja",
-        "image": "https://img.okezone.com/content/2018/04/21/320/1889659/waspadai-penipuan-pinjaman-online-inilah-ciri-cirinya-PwcXBAr8aS.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/3.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online Tanpa Jaminan",
-        "image": "https://cdn.bukuwarung.com/wp-content/uploads/2022/04/butuh-pinjam-uang-20-juta-tanpa-jaminan-solusi-modal-usaha-bukuwarung-jawabannya.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/4.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online untuk Pemula",
-        "image": "https://www.banyupos.com/wp-content/uploads/2021/10/pinjaman-online-660x330.png",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/5.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online untuk Kebutuhan Bisnis",
-        "image": "",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/6.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Cara Memilih Pinjaman Online Terbaik",
-        "image": "https://img.alinea.id/img/content/2021/10/26/125075/pinjol-ilegal-kian-marak-O80vKKyz5D.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/7.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online Syariah:",
-        "image": "https://1.bp.blogspot.com/-uwo7gFFNNXE/X280p6ndprI/AAAAAAAAK2Q/djZ4hq-0fOcxxFKJ-lIlY4gD_HeJK4DyACLcBGAsYHQ/s528/images%2B%252844%2529%257E2.jpeg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/8.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Konsep Pinjol Syariah",
-        "image": "https://i.ytimg.com/vi/_I3zzIiK280/maxresdefault.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/9.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online untuk Modal Usaha",
-        "image": "https://radargroup.id/wp-content/uploads/2023/04/Pinjol-Bunga-ringan.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/10.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Fenomena Pinjaman Online",
-        "image": "https://mui.or.id/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-08-at-13.06.02.jpeg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/11.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online untuk Pendidikan",
-        "image": "https://foto.kontan.co.id/8UPjfZ3wAG6gEVHhwIFPTc8c24Y=/smart/filters:format(webp)/2022/01/27/37940287p.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/12.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online dengan Bunga Rendah",
-        "image": "https://i.ytimg.com/vi/dO5WMMwauDA/maxresdefault.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/13.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online untuk Kredit Macet",
-        "image": "https://i.ytimg.com/vi/8oHca6e_c7I/maxresdefault.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/14.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online dan Perlindungan Konsumen",
-        "image": "https://seru.co.id/wp-content/uploads/2023/01/Untitled-4.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/15.html"
-      },{
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Pinjaman Online Cepat Cair",
-        "image": "https://i.ytimg.com/vi/eFbC77_01IM/hqdefault.jpg",
-        "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/16.html"
-      }
-    ]
-  }
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },{
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Apa yang Harus Anda Ketahui Sebelum Mengajukan",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://rawcdn.githack.com/pinjolsejaterah/html/6a6d51837fad7120edca23a027e3e8fd073dc3b1/1.html"
+    } 
+  ]
+}
