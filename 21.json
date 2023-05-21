@@ -28,16 +28,16 @@
    "More": [
     {
       "id": 1,
-      "title": "Test",
-      "image": "https://i0.wp.com/dianisa.com/wp-content/uploads/2022/11/5-Gambar-pemandangan-laut-dengan-perahu.jpg?resize=1280%2C720&ssl=1",
-      "link": "https://play.google.com/store/apps/details?id=com"
+      "title": "Testku",
+      "image": "https://fyh6jk7zypag.cdn.shift8web.com/wp-content/uploads/2022/07/Syarat-Pinjaman-Online.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.akuganteng"
     } 
   ],
   "Categories": [
     {
       "id": 1,
-      "name_category": "Tutorial",
-      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg"
+      "name_category": "Tut097870orial",
+      "image": "https://fyh6jk7zypag.cdn.shift8web.com/wp-content/uploads/2022/07/Syarat-Pinjaman-Online.jpg"
     } 
   ],
   "Data": [
@@ -46,7 +46,7 @@
         "name_category": "Tutorial",
         "title": "Apa yang Harus Anda Ketahui Sebelum Mengajukan",
         "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/02/13/1107725129.jpeg",
-        "description": "Pinjol Aman",
+        "description": "Pinjol Aman Mudah Cair",
         "link": "https://raw.githack.com/starproltd/isinya/main/1.html"
       }, {
         "id": 1,
@@ -153,7 +153,7 @@
         "image": "https://i.ytimg.com/vi/eFbC77_01IM/hqdefault.jpg",
         "description": "Pinjol Aman",
         "link": "https://raw.githack.com/starproltd/isinya/main/16.html"
-      },
+      }
       
     ]
   }
