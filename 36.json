@@ -13,10 +13,10 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
+      "high_paying_keyword_1": "Crypto",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
@@ -51,7 +51,7 @@
     },{
       "id": 1,
       "name_category": "Tutorial",
-      "title": "Apa yang Harus Anda Ketahui Sebelum Mengajukan",
+      "title": "Apa yang Harus Anda Ketahui Sebelum Mengajukan Pinjol",
       "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
       "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
       "link": "https://rawcdn.githack.com/pinjolsejaterah/html/6a6d51837fad7120edca23a027e3e8fd073dc3b1/1.html"
