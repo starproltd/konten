@@ -23,9 +23,24 @@
         "high_paying_keyword_5": "Pinjaman",
         "status_app": "0",
         "link_redirect": ""
-      }
-   ],
-    "Data": [
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Test",
+      "image": "https://i0.wp.com/dianisa.com/wp-content/uploads/2022/11/5-Gambar-pemandangan-laut-dengan-perahu.jpg?resize=1280%2C720&ssl=1",
+      "link": "https://play.google.com/store/apps/details?id=com"
+    } 
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg"
+    } 
+  ],
+  "Data": [
       {
         "id": 1,
         "name_category": "Tutorial",
