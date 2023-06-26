@@ -1,158 +1,183 @@
 {
-  "Ads": [
+  "apps": [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner": "0b8b1e3fcfb671d8",
-      "backup_ads_intertitial": "80152ad6fd5bbfdf",
-      "open_ads_admob":"ca-app-pub-6775284507507716/6231155171",
-      "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "1",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.pinjollegailegal.listpinjolilegal.mudacair"
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://starproltd.blogspot.com/2023/04/privacy-policy.html",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "",
+      "base64_license_key": ""
     }
   ],
-   "More": [
+  "ads": [
     {
-      "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_discovery",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "1292847654681966_1292847704681961",
+      "fan_interstitial_unit_id": "1292847654681966_1292847708015294",
+      "fan_native_unit_id": "1292847654681966_1292847698015295",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "0",
+      "unity_interstitial_placement_id": "0",
+      "applovin_banner_unit_id": "0b8b1e3fcfb671d8",
+      "applovin_interstitial_unit_id": "80152ad6fd5bbfdf",
+      "applovin_native_manual_unit_id": "c121b676bc60095c",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "0",
+      "ironsource_interstitial_id": "0",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 2,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
     }
   ],
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
-    }
-  ],
-  "Data": [
-    {
+    "posts": [
+      {
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Apa yang Harus Anda Ketahui Sebelum Mengajukan Pinjol",
         "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/02/13/1107725129.jpeg",
         "description": "Pinjol Aman Mudah Cair",
-        "link": "https://raw.githack.com/starproltd/isinya/main/1.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/1.html"
       }, {
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Proses dari Pengajuan hingga Pencairan Dana Pinjol",
         "image": "https://i.ytimg.com/vi/07p_CTBHMbU/maxresdefault.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/2.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/2.html"
       },  {
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Bagaimana Pinjaman Online Bekerja",
         "image": "https://img.okezone.com/content/2018/04/21/320/1889659/waspadai-penipuan-pinjaman-online-inilah-ciri-cirinya-PwcXBAr8aS.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/3.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/3.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online Tanpa Jaminan",
         "image": "https://cdn.bukuwarung.com/wp-content/uploads/2022/04/butuh-pinjam-uang-20-juta-tanpa-jaminan-solusi-modal-usaha-bukuwarung-jawabannya.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/4.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/4.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online untuk Pemula",
         "image": "https://www.banyupos.com/wp-content/uploads/2021/10/pinjaman-online-660x330.png",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/5.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/5.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online untuk Kebutuhan Bisnis",
         "image": "https://i.ytimg.com/vi/dO5WMMwauDA/maxresdefault.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/6.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/6.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Cara Memilih Pinjaman Online Terbaik",
         "image": "https://img.alinea.id/img/content/2021/10/26/125075/pinjol-ilegal-kian-marak-O80vKKyz5D.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/7.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/7.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online Syariah:",
         "image": "https://1.bp.blogspot.com/-uwo7gFFNNXE/X280p6ndprI/AAAAAAAAK2Q/djZ4hq-0fOcxxFKJ-lIlY4gD_HeJK4DyACLcBGAsYHQ/s528/images%2B%252844%2529%257E2.jpeg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/8.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/8.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Konsep Pinjol Syariah",
         "image": "https://i.ytimg.com/vi/_I3zzIiK280/maxresdefault.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/9.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/9.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online untuk Modal Usaha",
         "image": "https://radargroup.id/wp-content/uploads/2023/04/Pinjol-Bunga-ringan.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/10.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/10.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Fenomena Pinjaman Online",
         "image": "https://mui.or.id/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-08-at-13.06.02.jpeg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/11.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/11.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online untuk Pendidikan",
         "image": "https://foto.kontan.co.id/8UPjfZ3wAG6gEVHhwIFPTc8c24Y=/smart/filters:format(webp)/2022/01/27/37940287p.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/12.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/12.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online dengan Bunga Rendah",
         "image": "https://i.ytimg.com/vi/dO5WMMwauDA/maxresdefault.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/13.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/13.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online untuk Kredit Macet",
         "image": "https://i.ytimg.com/vi/8oHca6e_c7I/maxresdefault.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/14.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/14.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online dan Perlindungan Konsumen",
         "image": "https://seru.co.id/wp-content/uploads/2023/01/Untitled-4.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/15.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/15.html"
       },{
         "id": 1,
-        "name_category": "Tutorial",
+        "category": "Tutorial",
         "title": "Pinjaman Online Cepat Cair",
         "image": "https://i.ytimg.com/vi/eFbC77_01IM/hqdefault.jpg",
         "description": "Pinjol Aman",
-        "link": "https://raw.githack.com/starproltd/isinya/main/16.html"
+        "content": "https://raw.githack.com/starproltd/isinya/main/16.html"
       }
   ]
 }
