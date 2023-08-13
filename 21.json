@@ -23,7 +23,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "fan",
+      "main_ad": "fann",
       "backup_ad": "applovin_discovery",
       "admob_banner_unit_id": "0",
       "admob_interstitial_unit_id": "0",
