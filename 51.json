@@ -1,3 +1,4 @@
+
 {
   "apps": [
     {
@@ -34,7 +35,7 @@
       "ad_manager_native_unit_id": "0",
       "ad_manager_app_open_unit_id": "0",
       "fan_banner_unit_id": "",
-      "fan_interstitial_unit_id": ",
+      "fan_interstitial_unit_id": "",
       "fan_native_unit_id": "",
       "startapp_app_id": "0",
       "unity_game_id": "0",
